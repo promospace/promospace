@@ -1608,6 +1608,7 @@ select::-ms-expand {
   left: -25px;
   max-width: 570px;
   display: none;
+  z-index: 5;
 }
 .pricing__info-link__modal::after {
   content: "";
